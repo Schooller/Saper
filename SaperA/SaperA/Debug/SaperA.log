@@ -1,0 +1,6 @@
+﻿  SaperA.cpp
+c:\users\tom\desktop\sapera\sapera\sapera\sapera.cpp(456): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tom\desktop\sapera\sapera\sapera\sapera.cpp(461): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tom\desktop\sapera\sapera\sapera\sapera.cpp(501): warning C4553: '==': operator has no effect; did you intend '='?
+  SaperA.vcxproj -> C:\Users\Tom\Desktop\SaperA\SaperA\Debug\SaperA.exe
+  SaperA.vcxproj -> C:\Users\Tom\Desktop\SaperA\SaperA\Debug\SaperA.pdb (Full PDB)
