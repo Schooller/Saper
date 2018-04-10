@@ -240,7 +240,7 @@ namespace Saper
 
         private void Game_GameOver(bool isWin)
         {
-            Console.WriteLine(String.Format("Game over: You {0}!", isWin ? "win" : "lose"));
+            Debug.WriteLine(String.Format("Game over: You {0}!", isWin ? "win" : "lose"));
         }
 
         private void Game_CellStateChange(int x, int y)
